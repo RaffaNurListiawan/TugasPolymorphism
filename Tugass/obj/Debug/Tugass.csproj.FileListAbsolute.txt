@@ -1,0 +1,6 @@
+D:\SEMESTER 2\PEMROGRAMAN\Pertemuan9\Tugass\Tugass\bin\Debug\Tugass.exe.config
+D:\SEMESTER 2\PEMROGRAMAN\Pertemuan9\Tugass\Tugass\obj\Debug\Tugass.csprojResolveAssemblyReference.cache
+D:\SEMESTER 2\PEMROGRAMAN\Pertemuan9\Tugass\Tugass\bin\Debug\Tugass.exe
+D:\SEMESTER 2\PEMROGRAMAN\Pertemuan9\Tugass\Tugass\bin\Debug\Tugass.pdb
+D:\SEMESTER 2\PEMROGRAMAN\Pertemuan9\Tugass\Tugass\obj\Debug\Tugass.exe
+D:\SEMESTER 2\PEMROGRAMAN\Pertemuan9\Tugass\Tugass\obj\Debug\Tugass.pdb
